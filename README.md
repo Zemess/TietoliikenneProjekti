@@ -3,6 +3,7 @@ Raakaversio Vuokaaviosta
 https://tinyurl.com/2s35vy62
 
 # Tietoliikenteen sovellusprojekti 2024
+## Tomi Ahola ja Samuli Hyötylä
 ### Viikko 1 (Aloitus)
 #### **Tehty:**
 - Katsoimme SDLC-videot: *Software Development Lifecycle in 9 minutes* ja *An Entire Software Development Life Cycle by Forrest Knight*.  
