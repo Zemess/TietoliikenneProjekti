@@ -20,7 +20,7 @@
 - Katselimme Twitch-striimejä koodaajilta.
 - Otimme käyttöön oman Linux-palvelimen ja testasimme SSH-yhteyttä palvelimelle.  
 - Vaihdoimme Linux-palvelimen käyttäjän salasanan komennolla `passwd`.  
-### Viikko 2
+### Viikko 2 (kiihtyvyysanturin dataa (x,y,z) BLE yhteyden yli puhelimeen)
 #### jotain
 ### Viikko 3
 #### jotain
