@@ -1,7 +1,3 @@
-
-Raakaversio Vuokaaviosta
-https://tinyurl.com/2s35vy62
-
 # Tietoliikenteen sovellusprojekti 2024
 ## Tomi Ahola ja Samuli Hyötylä
 ### Viikko 1 (Aloitus)
