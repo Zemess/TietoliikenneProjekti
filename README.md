@@ -4,7 +4,7 @@ https://tinyurl.com/2s35vy62
 
 # Tietoliikenteen sovellusprojekti 2024
 ### Viikko 1 (Aloitus)
-#### #### **Tehty:**
+#### **Tehty:**
 - Katsoimme SDLC-videot: *Software Development Lifecycle in 9 minutes* ja *An Entire Software Development Life Cycle by Forrest Knight*.  
 - Perehdyimme SDLC-vaiheisiin ja opimme niiden vaiheet: suunnittelu, analysointi, suunnittelu (design), toteutus (implementation), testaus, käyttöönotto ja ylläpito.   
 - Loimme kahden hengen ryhmälle yksityisen GitHub-repositorion ja projektin käyttäen Kanban-templatea.   
