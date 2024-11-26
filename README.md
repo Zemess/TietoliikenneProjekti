@@ -26,7 +26,7 @@ Katsoimme Karin videon tavoitteista, jonka jälkeen latasimme ja testasimme Kari
 Tämän jälkeen aloimme työstää BLE osuutta koodista. Menimme nordic academyn sivuille ja aloimme työstää koodia pala palalta.
 Kun koodi oli valmis, testasimme senkin toiminnallisuuden ja aloimme tämän jälkeen työstämään Karin koodin toiminallisuutta BLE koodipohjaan.
 Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimme pitkän taistelun jälkeen toimivaksi.
-### Viikko 3 Serverien hallinta
+### Viikko 3 (Serverien hallinta)
 #### jotain
 ### Viikko 4
 #### jotain
