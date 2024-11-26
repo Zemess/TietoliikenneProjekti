@@ -21,7 +21,11 @@
 - Otimme käyttöön oman Linux-palvelimen ja testasimme SSH-yhteyttä palvelimelle.  
 - Vaihdoimme Linux-palvelimen käyttäjän salasanan komennolla `passwd`.  
 ### Viikko 2 (kiihtyvyysanturin dataa (x,y,z) BLE yhteyden yli puhelimeen)
-#### jotain
+#### **Tehty:**
+Katsoimme Karin videon tavoitteista, jonka jälkeen latasimme ja testasimme Karin koodipohjan "WorkingADCSolution" ja saimme sen toimimaan nrf laitteellamme.
+Tämän jälkeen aloimme työstää BLE osuutta koodista. Menimme nordic academyn sivuille ja aloimme työstää koodia pala palalta.
+Kun koodi oli valmis, testasimme senkin toiminnallisuuden ja aloimme tämän jälkeen työstämään Karin koodin toiminallisuutta BLE koodipohjaan.
+Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin. jonka totesimme pitkän taistelun jälkeen toimivaksi.
 ### Viikko 3
 #### jotain
 ### Viikko 4
