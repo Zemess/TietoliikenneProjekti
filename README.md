@@ -15,7 +15,7 @@
 - Loimme paikallisen testailu-branchin kloonatun repositoryn alle.
 - Tarkistimme GitHubissa, että testailu-branch näkyy oikein.  
 - Piirsimme arkkitehtuurikaavion projektin eri komponenttien ja tiedonsiirtoyhteyksien kuvaamiseksi.
-- Lisäsimme arkkitehtuurikaavion projektin readme.md-tiedostoon.
+- Lisäsimme karkean version arkkitehtuurikuvasta projektin readme.md-tiedostoon.
 
 ![Arkkitehtuuri.png Icon](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Arkkitehtuuri.png)
 - Katselimme Twitch-striimejä koodaajilta.
