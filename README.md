@@ -27,6 +27,7 @@ Tämän jälkeen aloimme työstää BLE osuutta koodista. Menimme nordic academy
 Kun koodi oli valmis, testasimme senkin toiminnallisuuden ja aloimme tämän jälkeen työstämään Karin koodin toiminallisuutta BLE koodipohjaan.
 Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimme pitkän taistelun jälkeen toimivaksi.
 ### Viikko 3 (Serverien hallinta)
+![nano.kuva.png](
 #### jotain
 ### Viikko 4
 #### jotain
