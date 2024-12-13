@@ -33,7 +33,7 @@ Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimm
 ### Viikko 5
 #### jotain
 ### Viikko 6
-![3d.PNG](
+![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
 #### jotain
 ### Viikko 7 (Lopetus)
 #### jotain
