@@ -41,9 +41,12 @@ Ongelmana tällä viikolla oli Raspin haluamattomuus yhdistää servereille olle
 Tämä viikko oli kiinniottoa suurilta osin.
 Teimme pieniä korjailuja viikon 2 koodiin ja yritimme saada Raspin toimimaan serveriemme kanssa.
 Tehtäviä emme ennättäneet tekemään tällä viikolla, mutta teimme töitä senkin edestä.
-### Viikko 5
+### Viikko 5 (Kmeans)
+Aloimme tekemään annetusta sensoridatasta opetusalgoritmiä K-means luokittelijalle, jonka olisi tarkoitus mitatun datan perustella oppia laskemaan keskipiste suuntadatasta.
+
 ![Kmeans.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Kmeans.kuva.png)
 ![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
+
 ### Viikko 6
 ![confusion.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
 #### jotain
