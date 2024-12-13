@@ -36,13 +36,16 @@ Ohessa teimme raspille Python-ohjelman nanolla.
 ![nano.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/nano.kuva.png)
 ##### **Häiriöt/ongelmat:**
 Ongelmana tällä viikolla oli Raspin haluamattomuus yhdistää servereille ollenkaan, mutta saimme dataa muualta joten ongelma selvisi.
-### Viikko 4
-
+### Viikko 4 (Pikkutehtäviä/kiinniottoa)
+####**Tehty:**
+Tämä viikko oli kiinniottoa suurilta osin.
+Teimme pieniä korjailuja viikon 2 koodiin ja yritimme saada Raspin toimimaan serveriemme kanssa.
+Tehtäviä emme ennättäneet tekemään tällä viikolla, mutta teimme töitä senkin edestä.
 ### Viikko 5
-#### jotain
+![kmean.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
+![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
 ### Viikko 6
 ![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
 #### jotain
 ### Viikko 7 (Lopetus)
-![kmean.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
 #### jotain
