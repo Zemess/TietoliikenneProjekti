@@ -16,7 +16,7 @@
 - Tarkistimme GitHubissa, että testailu-branch näkyy oikein.  
 - Piirsimme arkkitehtuurikaavion projektin eri komponenttien ja tiedonsiirtoyhteyksien kuvaamiseksi.
 - Lisäsimme arkkitehtuurikaavion projektin readme.md-tiedostoon.
-![Sieppaa.PNG Icon](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Sieppaa.PNG)
+![arkkitehtuuri.png Icon](https://github.com/Zemess/TietoliikenneProjekti/blob/main/arkkitehtuuri.png)
 - Katselimme Twitch-striimejä koodaajilta.
 - Otimme käyttöön oman Linux-palvelimen ja testasimme SSH-yhteyttä palvelimelle.  
 - Vaihdoimme Linux-palvelimen käyttäjän salasanan komennolla `passwd`.  
@@ -33,6 +33,7 @@ Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimm
 ### Viikko 5
 #### jotain
 ### Viikko 6
+![3d.PNG](
 #### jotain
 ### Viikko 7 (Lopetus)
 #### jotain
