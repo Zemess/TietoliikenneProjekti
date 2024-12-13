@@ -37,7 +37,7 @@ Ohessa teimme raspille Python-ohjelman nanolla.
 ##### **Häiriöt/ongelmat:**
 Ongelmana tällä viikolla oli Raspin haluamattomuus yhdistää servereille ollenkaan, mutta saimme dataa muualta joten ongelma selvisi.
 ### Viikko 4 (Pikkutehtäviä/kiinniottoa)
-####**Tehty:**
+#### **Tehty:**
 Tämä viikko oli kiinniottoa suurilta osin.
 Teimme pieniä korjailuja viikon 2 koodiin ja yritimme saada Raspin toimimaan serveriemme kanssa.
 Tehtäviä emme ennättäneet tekemään tällä viikolla, mutta teimme töitä senkin edestä.
@@ -51,14 +51,14 @@ Keskipisteet printattiin 3d-malliin joka näytti tältä:
 ![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
 Tämä tallennettiin keskipiste.h tiedostoksi seuraavaa vaihetta varten.
 ### Viikko 6 (Confusion)
-####**Tehty:**
+#### **Tehty:**
 Otimme Karin valmiin Confusion/adc pohjan käyttöön johon lisäsimme oman keskipiste.h tiedoston. Täydensimme confusion.c tiedostoon puuttuvat koodit ja latasimme sen NRF-laitteelle.
 Latauksen jälkeen nappi 3 antoi yhden suunta-arvon, nappi 4 antoi suunta-arvoa, nappi 2 näytti sen hetkisen taulun arvot ja nappi 1 nollasi taulun "reset".
 
 ![confusion.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
 
 ### Viikko 7 (tehtävien viimeistely/Posteri)
-####**Tehty:**
+#### **Tehty:**
 Teimme ReadME.md, kanbanin ja kaikki muut kirjoitusta vailla olleet tehtävät loppuun.
 Saimme posterin valmiiksi ja palautukseen.
 Kaikki tehtävät on nyt tehty ja loman viettoon.
