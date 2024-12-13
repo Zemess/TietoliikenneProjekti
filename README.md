@@ -16,6 +16,7 @@
 - Tarkistimme GitHubissa, että testailu-branch näkyy oikein.  
 - Piirsimme arkkitehtuurikaavion projektin eri komponenttien ja tiedonsiirtoyhteyksien kuvaamiseksi.
 - Lisäsimme arkkitehtuurikaavion projektin readme.md-tiedostoon.
+
 ![Arkkitehtuuri.png Icon](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Arkkitehtuuri.png)
 - Katselimme Twitch-striimejä koodaajilta.
 - Otimme käyttöön oman Linux-palvelimen ja testasimme SSH-yhteyttä palvelimelle.  
@@ -31,6 +32,7 @@ Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimm
 Aloitimme viikon omien servujen käyttöönotolla. Asensimme Netfiler palomuurit, jonka jälkeen aloimme työstämään MySQL tietokantaa serverien sisälle.
 MySQL testattiin ja toettiin toimivaksi. Latasimme winSCP ja wireshark ohjelmat, jonka lisäksi asensimme Apache web palvelimen ja PHP:n servuillemme.
 Ohessa teimme raspille Python-ohjelman nanolla.
+
 ![nano.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/nano.kuva.png)
 ##### **Häiriöt/ongelmat:**
 Ongelmana tällä viikolla oli Raspin haluamattomuus yhdistää servereille ollenkaan, mutta saimme dataa muualta joten ongelma selvisi.
