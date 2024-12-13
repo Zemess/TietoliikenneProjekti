@@ -27,6 +27,8 @@ Tämän jälkeen aloimme työstää BLE osuutta koodista. Menimme nordic academy
 Kun koodi oli valmis, testasimme senkin toiminnallisuuden ja aloimme tämän jälkeen työstämään Karin koodin toiminallisuutta BLE koodipohjaan.
 Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimme pitkän taistelun jälkeen toimivaksi.
 ### Viikko 3 (Serverien hallinta)
+Aloitimme viikon omien servujen käyttöönotolla. Asensimme Netfiler palomuurit, jonka jälkeen aloimme työstämään MySQL tietokantaa serverien sisälle.
+Ohessa teimme raspille Python-ohjelman nanolla 
 ![nano.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/nano.kuva.png)
 #### jotain
 ### Viikko 4
