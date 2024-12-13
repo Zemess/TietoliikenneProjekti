@@ -36,4 +36,5 @@ Teimme kytkennät NRF laitteelle ja testasimme yhdistetyn koodin, jonka totesimm
 ![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
 #### jotain
 ### Viikko 7 (Lopetus)
+![kmean.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
 #### jotain
