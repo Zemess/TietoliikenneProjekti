@@ -45,7 +45,7 @@ Tehtäviä emme ennättäneet tekemään tällä viikolla, mutta teimme töitä 
 ![Kmeans.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Kmeans.kuva.png)
 ![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
 ### Viikko 6
-
+![confusion.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
 #### jotain
 ### Viikko 7 (Lopetus)
 #### jotain
