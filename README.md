@@ -16,7 +16,7 @@
 - Tarkistimme GitHubissa, että testailu-branch näkyy oikein.  
 - Piirsimme arkkitehtuurikaavion projektin eri komponenttien ja tiedonsiirtoyhteyksien kuvaamiseksi.
 - Lisäsimme arkkitehtuurikaavion projektin readme.md-tiedostoon.
-![arkkitehtuuri.png Icon](https://github.com/Zemess/TietoliikenneProjekti/blob/main/arkkitehtuuri.png)
+![Arkkitehtuuri.png Icon](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Arkkitehtuuri.png)
 - Katselimme Twitch-striimejä koodaajilta.
 - Otimme käyttöön oman Linux-palvelimen ja testasimme SSH-yhteyttä palvelimelle.  
 - Vaihdoimme Linux-palvelimen käyttäjän salasanan komennolla `passwd`.  
