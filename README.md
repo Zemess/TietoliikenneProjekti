@@ -42,13 +42,23 @@ Tämä viikko oli kiinniottoa suurilta osin.
 Teimme pieniä korjailuja viikon 2 koodiin ja yritimme saada Raspin toimimaan serveriemme kanssa.
 Tehtäviä emme ennättäneet tekemään tällä viikolla, mutta teimme töitä senkin edestä.
 ### Viikko 5 (Kmeans)
+#### **Tehty:**
 Aloimme tekemään annetusta sensoridatasta opetusalgoritmiä K-means luokittelijalle, jonka olisi tarkoitus mitatun datan perustella oppia laskemaan keskipiste suuntadatasta.
 
 ![Kmeans.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/Kmeans.kuva.png)
-![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
+Keskipisteet printattiin 3d-malliin joka näytti tältä:
 
-### Viikko 6
+![3d.PNG](https://github.com/Zemess/TietoliikenneProjekti/blob/main/3d.PNG)
+Tämä tallennettiin keskipiste.h tiedostoksi seuraavaa vaihetta varten.
+### Viikko 6 (Confusion)
+####**Tehty:**
+Otimme Karin valmiin Confusion/adc pohjan käyttöön johon lisäsimme oman keskipiste.h tiedoston. Täydensimme confusion.c tiedostoon puuttuvat koodit ja latasimme sen NRF-laitteelle.
+Latauksen jälkeen nappi 3 antoi yhden suunta-arvon, nappi 4 antoi suunta-arvoa, nappi 2 näytti sen hetkisen taulun arvot ja nappi 1 nollasi taulun "reset".
+
 ![confusion.kuva.png](https://github.com/Zemess/TietoliikenneProjekti/blob/main/confusion.kuva.png)
-#### jotain
-### Viikko 7 (Lopetus)
-#### jotain
+
+### Viikko 7 (tehtävien viimeistely/Posteri)
+####**Tehty:**
+Teimme ReadME.md, kanbanin ja kaikki muut kirjoitusta vailla olleet tehtävät loppuun.
+Saimme posterin valmiiksi ja palautukseen.
+Kaikki tehtävät on nyt tehty ja loman viettoon.
